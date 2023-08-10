@@ -9,6 +9,10 @@ Welcome to CarHub, an online rental car shop where you can search for and rent a
 - Intuitive and user-friendly interface.
 - Fast response and responsive design for various devices.
 
+## Live Demo
+
+You can see the demo [here](https://cars-showcase-mtkn.vercel.app/)
+
 ## Technologies Used
 
 - **Next.js:** A React framework that enables building high-performance web applications with server-side rendering (SSR) and static site generation (SSG).
